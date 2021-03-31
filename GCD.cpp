@@ -1,4 +1,4 @@
-//Greatest common Divisor
+//Greatest common Divisor (GCD)
 #include<iostream>
 
 int GCD(int, int);
